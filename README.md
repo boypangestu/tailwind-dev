@@ -33,3 +33,4 @@ TailwindCSS Starter is minimal boilerplate to help your journey to explore Tailw
 
 Have a bug, suggestion or question? [Open a new issue](https://github.com/sastranababan/tailwind-starter/issues/new) here on GitHub.
 
+# tailwind-dev
